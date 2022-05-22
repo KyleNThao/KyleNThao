@@ -2,23 +2,23 @@
   <h1> Kyle Thao here, and that's who I am!
     <a href="https://github.com/KyleNThao">
       <picture>
-        <source
-          srcset="https://github.com/KyleNThao/KyleNThao/blob/main/images/GitHub-Mark-Light-120px-plus.png"
-          media="(prefers-color-scheme: dark)">
-        <img align="right" width="30px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/GitHub-Mark-120px-plus.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyleNThao/KyleNThao/main/images/GitHub-Mark-Light-120px-plus.png">
+        <img align="right" width="30px" src="https://raw.githubusercontent.com/KyleNThao/KyleNThao/main/images/GitHub-Mark-120px-plus.png">
       </picture>
+    </a>
     <a href="https://www.linkedin.com/in/kyle-thao-6b26b5169/">
-      <img align="right" width="30px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/linkedin-logo-png-1826.png"/>
+      <img align="right" width="30px" src="images/linkedin-logo-png-1826.png"/>
     </a>
     <a href="mailto:kylethao@me.com">
-      <img align="right" width="25px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/AppleMailLogo.png"/>
+      <img align="right" width="25px" src="images/AppleMailLogo.png"/>
     </a>
   </h1>
 </p>
     
 ## Education
-
-<img align="right" width="300px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/CSUS_Logo.png"/>
+<a href="https://www.csus.edu">
+  <img align="right" width="300px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/CSUS_Logo.png"/>
+</a>
 <p>
  <b>California&nbsp; State&nbsp;  University&nbsp;  -&nbsp; Sacramento</b><br>
  <i>Bachelors&nbsp; of&nbsp; Science&nbsp; in&nbsp; Computer&nbsp; Science</i><br>
