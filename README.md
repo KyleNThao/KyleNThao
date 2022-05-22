@@ -3,12 +3,10 @@
     <a href="https://github.com/KyleNThao">
     <img align="right" width="30px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/GitHub-Mark-120px-plus.png"/>
     <a href="https://www.linkedin.com/in/kyle-thao-6b26b5169/">
-    <img align="right" width="30px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/linkedin-logo-png-1826.png"/>
+    <img align="right" width="30px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/linkedin-logo-png-1826.png"/><br>
   </h1>
 </p>
-<p>
-  </p>
-
+    
 ## Education
   
 <p>
