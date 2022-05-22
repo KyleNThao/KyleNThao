@@ -25,7 +25,7 @@
 </p>
 <br>
 
-[![Programming Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=kylenthao)](https://github.com/kylenthao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylenthao&custom_title=My%20Programming%20Langauges)](https://github.com/kylenthao/github-readme-stats)
 
 
 <!--
