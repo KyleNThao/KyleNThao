@@ -16,8 +16,7 @@
     
 ## Education
 
-<img align="left" width="30px" src=""/>
-<br><br>
+<img align="right" width="300px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/CSUS_Logo.png"/>
 <p>
  <b>California&nbsp; State&nbsp;  University&nbsp;  -&nbsp; Sacramento</b><br>
  <i>Bachelors&nbsp; of&nbsp; Science&nbsp; in&nbsp; Computer&nbsp; Science</i><br>
