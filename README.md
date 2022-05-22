@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/kyle-thao-6b26b5169/">
       <img align="right" width="30px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/linkedin-logo-png-1826.png"/>
     </a>
-    <a href="mailto:email@example.com">
+    <a href="mailto:kylethao@me.com">
       <img align="right" width="25px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/AppleMailLogo.png"/>
     </a>
   </h1>
