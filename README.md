@@ -1,17 +1,15 @@
 <p>
-  <h1> About Me and Who I am 
+  <h1> Kyle Thao here, and that's who I am!
     <a href="https://github.com/KyleNThao">
       <img align="right" width="30px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/GitHub-Mark-120px-plus.png"/>
     </a>
     <a href="https://www.linkedin.com/in/kyle-thao-6b26b5169/">
       <img align="right" width="30px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/linkedin-logo-png-1826.png"/>
     </a>
+    <a href="mailto:email@example.com">
+      <img align="right" width="25px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/AppleMailLogo.png"/>
+    </a>
   </h1>
-</p>
-    
-<p>
-  <b>Kyle&nbsp; Thao</b><br>
-  <i>Email:&nbsp; kylethao@me.com</i><br>
 </p>
     
 ## Education
@@ -25,6 +23,9 @@
 </p>
 <br>
 
+## My Statistics and Technologies
+
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylenthao)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylenthao&custom_title=My%20Programming%20Langauges)](https://github.com/kylenthao/github-readme-stats)
 
 
