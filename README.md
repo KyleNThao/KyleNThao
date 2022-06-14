@@ -25,9 +25,15 @@
  <i>Minor&nbsp; in&nbsp; Mathematics</i><br>
  August 2016 — December 2020
 </p>
-<br>
+<br> 
 
 ## My Statistics and Technologies
+<a href="https://www.linkedin.com/in/kyle-thao-6b26b5169/">
+      <img align="right" width="30px" src="images/linkedin-logo-png-1826.png"/>
+</a>
+<p>
+  <b>FreeCodeCamp&nbsp; Certifications&nbsp; -</b>
+</p>
 
 [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylenthao)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylenthao&custom_title=My%20Programming%20Langauges)](https://github.com/kylenthao/github-readme-stats)
