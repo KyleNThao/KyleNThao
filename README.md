@@ -28,12 +28,20 @@
 <br> 
 
 ## My Statistics and Technologies
-<a href="https://www.linkedin.com/in/kyle-thao-6b26b5169/">
-      <img align="right" width="30px" src="images/linkedin-logo-png-1826.png"/>
-</a>
+<a href="https://www.freecodecamp.org/KylenThao">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KyleNThao/KyleNThao/blob/main/images/freeCodeCampLogos/fcc-logo-white.png">
+        <img align="right" width="50px" src="https://github.com/KyleNThao/KyleNThao/blob/main/images/freeCodeCampLogos/freeCodeCamp.svg">
+      </picture>
+    </a>
 <p>
   <b>FreeCodeCamp&nbsp; Certifications&nbsp; -</b>
+  <br>
+  <a href="https://www.freecodecamp.org/certification/KylenThao/javascript-algorithms-and-data-structures">
+    Javascript Algorithms and Data Structures
+  </a>
 </p>
+<br>
 
 [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylenthao)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylenthao&custom_title=My%20Programming%20Langauges)](https://github.com/kylenthao/github-readme-stats)
