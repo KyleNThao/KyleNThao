@@ -1,5 +1,5 @@
 <p>
-  <h1> Kyle Thao, Owner of this profile and it's changes.
+  <h1> Kyle Thao
     <a href="https://github.com/KyleNThao">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyleNThao/KyleNThao/main/images/GitHub-Mark-Light-120px-plus.png">
